@@ -1,0 +1,6 @@
+SFMLFramework
+
+A game framework for SFML.Net in C#, including an entity system
+which may be scrapped (in development).
+
+Copyright (c) 2014 William Osborne
